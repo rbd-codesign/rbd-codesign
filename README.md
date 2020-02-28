@@ -1,0 +1,1 @@
+This repository will host the code for the paper submission to iROS 2020 "Dynamics Gradient Algorithm-Hardware Co-Design to Accelerate Real Time Model Predictive Control." The code is currently being cleaned up and will be posted shortly.
