@@ -1,1 +1,1 @@
-This repository will host the code for the paper submission to ICRA 2021 "Accelerating the Gradient of Robot Dynamics through Software-Hardware Co-Design on a CPU, GPU, and FPGA." The code is currently being cleaned up and will be posted shortly.
+This repository will host the code for the paper submission to RAL+ICRA 2021 "Hardware-Software Co-Design on a CPU, GPU, and FPGA for Accelerating the Gradient of Rigid Body Dynamics on a Robot." The code is currently being cleaned up and will be posted shortly.
